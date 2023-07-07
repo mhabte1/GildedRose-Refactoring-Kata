@@ -3,7 +3,7 @@
 To enable excellent f-2-f-like collaboration, the mob programming team will be using MS Teams 
 
 Unit Test Video:
+https://youtu.be/IPhhtf5mLxQ
 
-Refactoring Video:
-
-New Feature Video:
+Conjured Item Video:
+https://www.youtube.com/watch?v=KeXiF8xkLpE&ab_channel=JhaedynGibbs
